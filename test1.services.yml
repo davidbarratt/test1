@@ -1,0 +1,3 @@
+services:
+  test1.githubapi:
+    class: Github\Client

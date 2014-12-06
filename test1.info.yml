@@ -1,0 +1,4 @@
+name: test1
+description: test1 dependency.
+type: module
+core: 8.x
