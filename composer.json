@@ -2,6 +2,8 @@
     "name": "davidbarratt/test1",
     "type": "drupal-module",
     "require": {
-        "knplabs/github-api": "~1.2"
+      "composer/installers": "~1.0",
+      "drupal/core": "~8.0",
+      "knplabs/github-api": "~1.2"
     }
 }
