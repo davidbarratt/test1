@@ -1,4 +1,6 @@
 {
+    "name": "davidbarratt/test1",
+    "type": "drupal-module",
     "require": {
         "knplabs/github-api": "~1.2"
     }
